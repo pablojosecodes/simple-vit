@@ -14,3 +14,4 @@ Simple practice replicating a paper
 You can access the trained model weights (just trained on MNIST) [here]([url](https://huggingface.co/pablojosecodes/basic_vision_transformer/commit/a11c10b85889eb249a1cf446f2722642cd11dabb))
 
 
+
